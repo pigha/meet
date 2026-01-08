@@ -1,0 +1,5 @@
+{
+  "name": "InterviewFlow - Live Status Board",
+  "description": "Real-time interview status tracking for large-scale recruitment events. Supports flexible ordering of interview stages (Chinese/English) and multi-device synchronization.",
+  "requestFramePermissions": []
+}
